@@ -1,1 +1,1 @@
-just to try some fitcolne code throught vmware(centos)
+just to try some gitclone code throught vmware(centos)
